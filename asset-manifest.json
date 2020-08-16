@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OlegKhodakivskyi/goit-react-lesson1/static/css/main.b0035049.chunk.css",
+    "main.js": "/OlegKhodakivskyi/goit-react-lesson1/static/js/main.68fa7011.chunk.js",
+    "main.js.map": "/OlegKhodakivskyi/goit-react-lesson1/static/js/main.68fa7011.chunk.js.map",
+    "runtime-main.js": "/OlegKhodakivskyi/goit-react-lesson1/static/js/runtime-main.51b2aeeb.js",
+    "runtime-main.js.map": "/OlegKhodakivskyi/goit-react-lesson1/static/js/runtime-main.51b2aeeb.js.map",
+    "static/js/2.274d268a.chunk.js": "/OlegKhodakivskyi/goit-react-lesson1/static/js/2.274d268a.chunk.js",
+    "static/js/2.274d268a.chunk.js.map": "/OlegKhodakivskyi/goit-react-lesson1/static/js/2.274d268a.chunk.js.map",
+    "index.html": "/OlegKhodakivskyi/goit-react-lesson1/index.html",
+    "precache-manifest.695a6f3961a5e6369e2eb58ed0ca633f.js": "/OlegKhodakivskyi/goit-react-lesson1/precache-manifest.695a6f3961a5e6369e2eb58ed0ca633f.js",
+    "service-worker.js": "/OlegKhodakivskyi/goit-react-lesson1/service-worker.js",
+    "static/css/main.b0035049.chunk.css.map": "/OlegKhodakivskyi/goit-react-lesson1/static/css/main.b0035049.chunk.css.map",
+    "static/js/2.274d268a.chunk.js.LICENSE.txt": "/OlegKhodakivskyi/goit-react-lesson1/static/js/2.274d268a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51b2aeeb.js",
+    "static/js/2.274d268a.chunk.js",
+    "static/css/main.b0035049.chunk.css",
+    "static/js/main.68fa7011.chunk.js"
+  ]
+}
