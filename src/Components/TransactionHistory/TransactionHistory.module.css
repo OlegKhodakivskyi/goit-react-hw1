@@ -1,0 +1,25 @@
+.transaction-history {
+    font-family: "Lato", sans-serif;
+    width: 600px;
+    border: 1px solid #ccc;
+}
+.sheetColor {
+    background-color: #00bcd4;
+    height: 48px;
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.listItem {
+    text-align: center;
+    text-transform: capitalize ;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.list:nth-child(even) {
+    background-color: #ccc;
+}
