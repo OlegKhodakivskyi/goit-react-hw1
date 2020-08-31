@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/goit-react-lesson1/static/css/main.b0035049.chunk.css",
-    "main.js": "/goit-react-lesson1/static/js/main.68fa7011.chunk.js",
-    "main.js.map": "/goit-react-lesson1/static/js/main.68fa7011.chunk.js.map",
+    "main.css": "/goit-react-lesson1/static/css/main.bf5c8cb4.chunk.css",
+    "main.js": "/goit-react-lesson1/static/js/main.80a2cb6b.chunk.js",
+    "main.js.map": "/goit-react-lesson1/static/js/main.80a2cb6b.chunk.js.map",
     "runtime-main.js": "/goit-react-lesson1/static/js/runtime-main.915041b4.js",
     "runtime-main.js.map": "/goit-react-lesson1/static/js/runtime-main.915041b4.js.map",
     "static/js/2.274d268a.chunk.js": "/goit-react-lesson1/static/js/2.274d268a.chunk.js",
     "static/js/2.274d268a.chunk.js.map": "/goit-react-lesson1/static/js/2.274d268a.chunk.js.map",
     "index.html": "/goit-react-lesson1/index.html",
-    "precache-manifest.e2db005f8429ae697528c2a66fada60e.js": "/goit-react-lesson1/precache-manifest.e2db005f8429ae697528c2a66fada60e.js",
+    "precache-manifest.33f324f819d6dd3a9ba99c4f27e768b6.js": "/goit-react-lesson1/precache-manifest.33f324f819d6dd3a9ba99c4f27e768b6.js",
     "service-worker.js": "/goit-react-lesson1/service-worker.js",
-    "static/css/main.b0035049.chunk.css.map": "/goit-react-lesson1/static/css/main.b0035049.chunk.css.map",
+    "static/css/main.bf5c8cb4.chunk.css.map": "/goit-react-lesson1/static/css/main.bf5c8cb4.chunk.css.map",
     "static/js/2.274d268a.chunk.js.LICENSE.txt": "/goit-react-lesson1/static/js/2.274d268a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.915041b4.js",
     "static/js/2.274d268a.chunk.js",
-    "static/css/main.b0035049.chunk.css",
-    "static/js/main.68fa7011.chunk.js"
+    "static/css/main.bf5c8cb4.chunk.css",
+    "static/js/main.80a2cb6b.chunk.js"
   ]
 }
